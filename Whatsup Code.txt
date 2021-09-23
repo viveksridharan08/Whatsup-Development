@@ -3,5 +3,3 @@ hi
 hello
 Last seen code
 images attachment
-video call added
-audio call added
