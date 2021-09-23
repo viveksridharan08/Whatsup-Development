@@ -5,3 +5,4 @@ Last seen code
 images attachment
 video call added
 audio call added
+status feature added
