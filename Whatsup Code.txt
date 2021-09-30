@@ -2,7 +2,7 @@ This is whatsup code
 hi
 hello
 Last seen code
-images attachment
+images attachment, document attachment, video and audio attachment
 status feature
 audio call
 video call
